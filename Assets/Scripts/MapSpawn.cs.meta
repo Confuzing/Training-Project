@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: abe672e2232285944bef3df0d8e38a6f
+timeCreated: 1480475009
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - hexPrefab: {fileID: 1000011351970034, guid: 8c1df5ee4d912944b903e6af01a3d4ee,
+      type: 2}
+  - hexBoard: {fileID: 1000010154802032, guid: 0bed89636b7a7de4b9f3fc5225346b97, type: 2}
+  - Road: {fileID: 1000012679965746, guid: 072589a2ed27bd14db3518631110f240, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
